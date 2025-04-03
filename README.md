@@ -80,6 +80,19 @@ Me chamo Filipe Odorico sou estudante de Ciência da Computação na UNIFBV Wyde
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeodorico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 
           
           
@@ -89,7 +102,6 @@ Me chamo Filipe Odorico sou estudante de Ciência da Computação na UNIFBV Wyde
           
           
  
-
 
 
 
