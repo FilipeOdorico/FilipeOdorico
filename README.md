@@ -88,14 +88,14 @@ Me chamo Filipe Odorico sou estudante de Ciência da Computação na UNIFBV Wyde
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=andrecallou&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FilipeOdorico&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecallou&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeOdorico&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
