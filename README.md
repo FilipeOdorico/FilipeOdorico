@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Filipe Odorico sou estudante de Ciência da Computação na UNIFBV Wyden Pernambuco (5º período) e desenvolvedor web com foco em front-end, além de experiência em back-end. Tenho conhecimento em tecnologias como HTML, CSS, JavaScript, React, Python e bancos de dados SQL/NoSQL. Já participei de projetos acadêmicos e trabalhos freelance, desenvolvendo aplicações responsivas, intuitivas e escaláveis. Busco constantemente aprimorar minhas habilidades e acompanhar as melhores práticas do setor.
+Sou Filipe Odorico, estudante de Ciência da Computação (6º período) e desenvolvedor web em formação, com foco em soluções que combinam design responsivo, código limpo e inteligência artificial. Tenho experiência prática em projetos próprios, utilizando tecnologias como HTML, CSS, JavaScript, Python e Flask. Meu objetivo é aplicar a tecnologia de forma estratégica, criando sistemas eficientes, funcionais e com impacto real. Estou em constante evolução, sempre em busca de desafios que ampliem minha visão técnica e profissional.
 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-pestana-b790ab278/)
