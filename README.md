@@ -1,7 +1,7 @@
 
 ### Olá eu sou Filipe Odorico ✌️
 
-**`Desenvolvedor Web`**
+**`Futuro Gestor de IA`**
 
 Sou Filipe Odorico, estudante de Ciência da Computação (6º período) e desenvolvedor web em formação, com foco em soluções que combinam design responsivo, código limpo e inteligência artificial. Tenho experiência prática em projetos próprios, utilizando tecnologias como HTML, CSS, JavaScript, Python e Flask. Meu objetivo é aplicar a tecnologia de forma estratégica, criando sistemas eficientes, funcionais e com impacto real. Estou em constante evolução, sempre em busca de desafios que ampliem minha visão técnica e profissional.
 
